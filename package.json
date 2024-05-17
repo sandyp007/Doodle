@@ -2,12 +2,12 @@
   "name": "doodle",
   "version": "0.1.0",
   "private": true,
-  "publisher": "Pawel Borkar",
+  "publisher": "Sandeep Prajapati",
   "author": {
-    "name": "Pawel Borkar",
-    "email": "pawel@duck.com",
-    "url": "https://pawel.in",
-    "github": "https://github.com/pawelborkar"
+    "name": "Sandeep Prajapati",
+    "email": "prajapatisan7@gmail.com",
+    "url": "https://aboutmee.vercel.app",
+    "github": "https://github.com/sandyp007"
   },
   "dependencies": {
     "react": "^18.2.0",
