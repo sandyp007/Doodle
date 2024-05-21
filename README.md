@@ -1,4 +1,4 @@
-## Doodle
+## Doodle..
 
 Welcome to Doodle, a simple and fun doodling application where you can draw, save, and share your artwork. This project is aimed at providing an easy-to-use interface for users to express their creativity.
 
